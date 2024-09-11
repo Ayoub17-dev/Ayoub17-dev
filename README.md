@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ayoub17-dev
+- 🌱 I’m currently learning Software Development
+- 📫 How to reach me: ayoubmakrini@outlook.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Did you know that the first computer bug was an actual moth found in a computer in 1947! Debugging has come a long way since then.
